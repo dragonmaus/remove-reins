@@ -1,0 +1,25 @@
+{
+  "Format": "1.19.0",
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "Characters/Farmer",
+      "FromFile": "assets/Farmer_Base.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Farmer",
+      "FromFile": "assets/Farmer_Base_Bald.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Farmer",
+      "FromFile": "assets/Farmer_Girl_Base.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Farmer",
+      "FromFile": "assets/Farmer_Girl_Base_Bald.png"
+    }
+  ]
+}

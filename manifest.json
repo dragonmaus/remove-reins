@@ -1,0 +1,15 @@
+{
+  "Name": "Remove Reins",
+  "Author": "DragonMaus",
+  "Version": "1.0.0",
+  "Description": "Remove the weird orange-brown reins when you're riding your horse",
+  "UniqueID": "DragonMaus.RemoveReins",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+    "MinimumVersion": "1.19.1"
+  },
+  "MinimumApiVersion": "3.8.0",
+  "UpdateKeys": [
+    "GitHub:dragonmaus/remove-reins"
+  ]
+}
