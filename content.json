@@ -4,22 +4,22 @@
     {
       "Action": "Load",
       "Target": "Characters/Farmer",
-      "FromFile": "assets/Farmer_Base.png"
+      "FromFile": "assets/farmer_base.png"
     },
     {
       "Action": "Load",
       "Target": "Characters/Farmer",
-      "FromFile": "assets/Farmer_Base_Bald.png"
+      "FromFile": "assets/farmer_base_bald.png"
     },
     {
       "Action": "Load",
       "Target": "Characters/Farmer",
-      "FromFile": "assets/Farmer_Girl_Base.png"
+      "FromFile": "assets/farmer_girl_base.png"
     },
     {
       "Action": "Load",
       "Target": "Characters/Farmer",
-      "FromFile": "assets/Farmer_Girl_Base_Bald.png"
+      "FromFile": "assets/farmer_girl_base_bald.png"
     }
   ]
 }
