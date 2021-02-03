@@ -1,7 +1,7 @@
 {
   "Name": "Remove Reins",
   "Author": "DragonMaus",
-  "Version": "1.0.2",
+  "Version": "1.1.0",
   "Description": "Remove the weird orange-brown reins when you're riding your horse",
   "UniqueID": "DragonMaus.RemoveReins",
   "ContentPackFor": {
